@@ -1,4 +1,4 @@
-# Tic Tac Toe Android Application Readme
+# Tic Tac Toe Android Application
 This readme provides instructions and details for a simple Tic Tac Toe game application for Android.
 
 # Description
